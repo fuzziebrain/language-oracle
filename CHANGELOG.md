@@ -1,3 +1,13 @@
+## 1.6.0
+
+* Add `logger` styling
+
+## 1.5.0
+
+* Remove variable name styling
+* Remove `is` and `as` from `decreaseIndentPattern`
+* Add pattern match to `end` names.
+
 ## 1.4.1
 
 * Improve readability of snippets
